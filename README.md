@@ -1,6 +1,6 @@
 # Energy-Consumption-Analysis
-
-###Project Title: Energy Consumption Analysis
+ECA dash.pptx is a presentation file and .pdf is a file which contains all the analysis visualization dashboard of Power BI 
+### Project Title: Energy Consumption Analysis
 Technologies:
 - Data Cleansing
 - Exploratory Data Analysis (EDA)
